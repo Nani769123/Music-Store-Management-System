@@ -1,0 +1,80 @@
+🎵 Music Store Management System (SQL Project)
+📌 Project Overview
+
+The Music Store Management System is a database-driven project designed using SQL to manage and organize music store data efficiently. This system helps in maintaining information related to music tracks, albums, artists, customers, invoices, and sales.
+
+The project demonstrates strong understanding of relational databases, SQL queries, joins, constraints, and data analysis concepts.
+
+🎯 Objectives
+Design a structured relational database for a music store
+Store and manage music-related data efficiently
+Perform CRUD operations using SQL
+Analyze sales and customer data using SQL queries
+
+🗂️ Database Schema Includes
+Artists
+Albums
+Tracks
+Genres
+Customers
+Invoices
+Invoice_Items
+Employees
+Each table is connected using primary keys and foreign keys to maintain data integrity.
+
+✨ Key Features
+Structured music store database design
+Efficient data storage using normalization
+
+SQL queries for:
+Sales analysis
+Customer behavior analysis
+Best-selling tracks and albums
+Revenue calculation
+Use of JOINs, GROUP BY, HAVING, and subqueries
+
+🛠️ Technologies Used
+Database: MySQL / SQLite / PostgreSQL
+Language: SQL
+Tools: MySQL Workbench / DB Browser / pgAdmin
+
+📂 Project Structure
+Music-Store-Management-System/
+│
+├── music_store.sql        # Database creation & data insertion
+├── queries.sql            # SQL queries for analysis
+├── README.md              # Project documentation
+
+⚙️ How to Run the Project
+
+Install any SQL database tool (MySQL / SQLite / PostgreSQL)
+
+Create a new database
+
+Import the music_store.sql file
+
+Run SQL queries using:
+
+SELECT * FROM tracks;
+
+Execute analysis queries from queries.sql
+
+📊 Sample SQL Queries
+Top 5 best-selling tracks
+Total revenue generated
+Customers with highest purchases
+Genre-wise sales analysis
+
+🚀 Learning Outcomes
+Hands-on experience with relational databases
+Improved SQL query writing skills
+Better understanding of data relationships
+Real-world database project experience
+
+👨‍💻 Author
+Mamillapalli Rohith
+B.Tech – Computer Science and Engineering
+Aspiring Data Analyst
+
+📌 Note
+This project is created for learning and academic purposes and showcases practical usage of SQL in real-world business scenarios.
